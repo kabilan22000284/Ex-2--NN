@@ -1,3 +1,4 @@
+## EX NO:2 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
